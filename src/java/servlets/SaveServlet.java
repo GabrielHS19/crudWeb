@@ -1,6 +1,8 @@
-package crud;
+package servlets;
 
 
+import crud.Empleado;
+import crud.EmpleadoDAO;
 import java.io.IOException;
 import java.io.PrintWriter;
 
